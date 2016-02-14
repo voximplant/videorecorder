@@ -1,0 +1,16 @@
+html, body {
+	display: flex;
+	align-items: center;
+  	justify-content: center;  	
+  	height: 100%;
+}
+
+div.loginForm {
+	width: 400px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+#remote_video {
+	display: none;
+}
